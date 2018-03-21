@@ -5,11 +5,10 @@ Resources
 BitShares
 **************
 
-Home
-=============
+BitShares Reference Wallet
+==========================
 
-* `Bitshares Home <https://bitshares.org/>`_ 
-	
+* `BitShares.Exchange <https://bitshares.exchange>`
 	
 BitShares Blockchain Foundation
 =================================
@@ -19,8 +18,6 @@ BitShares Blockchain Foundation
 * `Bitshares Foundation : Accounting <http://www.bitshares.foundation/accounting>`_ 
 * `Bitshares Foundation : Public Mailing Lists <http://lists.bitshares.foundation/listinfo>`_ 
 * `Bitshares Foundation : Spokesperson <http://www.bitshares.foundation/spokesperson>`_
-
-
 
 .. _bitshares-communities:
 
@@ -43,32 +40,8 @@ Bitshares Block Exploer
 
 |
 
-.. _bitshares-exchanges-resources:
-
-BitShares Exchanges
-*********************
-
-.. include:: bts-exchanges.rst
-
-|
-
-.. _resource-external:
-
-External Information Links
-*****************************
-
-.. include:: resources-external.rst
-
-
 
 BitShares - Glossary 
 **********************
 
 * :ref:`glossary-list`
-
-
-
-
-
-
-  

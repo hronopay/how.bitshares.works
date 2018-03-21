@@ -22,6 +22,7 @@ Quick Start
 * `Get an Account <http://bitshares.exchange>`_
 * :ref:`Get the Source code <code-repositories>`
 * :ref:`Try out the Testnet <testnets>`
+* :doc:`Resources <resources/index>`
 
 User Guide
 =====================================
@@ -39,6 +40,15 @@ Testnet
    :maxdepth: 2
 
    testnet/index
+
+
+Resources
+=========
+
+.. toctree::
+   :maxdepth: 2
+
+   resources/index
 
 
 Glossary
