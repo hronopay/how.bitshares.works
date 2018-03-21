@@ -210,7 +210,7 @@ Restore from a **.bin** file. This is completely safe as the file is not uploade
 		
 
 b. Restore Using a Local Wallet Brainkey
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In order to restore from a brainkey, you will need to create a new local wallet. Please provide a 
 password and name for your new local wallet below, then enter your brainkey.  :ref:`Learn more information... <security-brainkey>`

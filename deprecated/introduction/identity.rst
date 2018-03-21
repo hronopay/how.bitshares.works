@@ -1,7 +1,7 @@
 
 Identiry
 ================
-BitShares makes use of human-readable account names that have to be registered together with public-keys in the blockchain prior to its usage. Thus, the blockchain acts as a name-to-public-key resolver similar to the traditional domain name service (DNS). These named accounts enable users to easily remember and communicate their account information instead of using error-prone ​addresses.
+BitShares makes use of human-readable account names that have to be registered together with public-keys in the blockchain prior to its usage. Thus, the blockchain acts as a name-to-public-key resolver similar to the traditional domain name service (DNS). These named accounts enable users to easily remember and communicate their account information instead of using error-prone addresses.
 
 Permissions
 ---------------
@@ -9,11 +9,11 @@ The BitShares Blockchain designs permissions around accounts, rather than around
 
 Authorities
 --------------
-BitShares employs a first of its kind hierarchical private key system to facilitate regular keys and backup keys. Regular (​active) keys are for day-to-day usage, while a separate backup (​owner) key can be used to recover access to an account in case of loss of the regular keys. Ideally the owner key is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a lost key. BitShares also facilitates the use of a Master Password that encrypts all keys. 
+BitShares employs a first of its kind hierarchical private key system to facilitate regular keys and backup keys. Regular (active) keys are for day-to-day usage, while a separate backup (owner) key can be used to recover access to an account in case of loss of the regular keys. Ideally the owner key is meant to be stored offline, and only used when the account’s keys need to be changed or to recover a lost key. BitShares also facilitates the use of a Master Password that encrypts all keys. 
 
 Encrypted Memos
 -----------------
-An account on the BitShares Blockchain has a so called​memo public key associated with it that allows for initiating encrypted communications by means of a shared secreted obtain via the Elliptic-curve Diffie-Hellman Algorithm. This allows to attach encrypted messages to transfers that only sender and receiver can decrypt.
+An account on the BitShares Blockchain has a so calledmemo public key associated with it that allows for initiating encrypted communications by means of a shared secreted obtain via the Elliptic-curve Diffie-Hellman Algorithm. This allows to attach encrypted messages to transfers that only sender and receiver can decrypt.
 
 Referral Program
 -------------------

@@ -13,7 +13,8 @@
 #
 #  ** Bitshares Documentation Portal - 11/14/2017 TS ***
 
-import sys, os
+import sys
+import os
 #import sphinx_bootstrap_theme
 #import sphinxjp
 ###############import sphinx_bootstrap_theme
@@ -32,7 +33,14 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'breathe', 'sphinx.ext.imgmath']
+extensions = [
+    'sphinx.ext.autodoc',
+    'sphinx.ext.todo',
+    'sphinx.ext.coverage',
+    'breathe',
+    'sphinx.ext.graphviz',
+    'sphinx.ext.imgmath',
+]
 todo_include_todos = False
 
 # Add any paths that contain templates here, relative to this directory.
@@ -50,7 +58,7 @@ master_doc = 'index'
 # General information about the project.
 project = 'BitShares Blockchain Documentation: Portal'
 #project = 'Graphene Technical Documentation'
-copyright = 'BBF'
+copyright = 'BitShares Blockchain Foundation'
 #copyright = '2015, Fabian Schuh'
 #author = 'Fabian Schuh'
 
@@ -144,10 +152,10 @@ html_theme_options = {
     # ],
 
      'navbar_links': [
-		 ("Introduction", "introduction/index"),
-		 ("Technology", "technology/index"),
-         ("User Guide", "bitshares/accounts/index"),
-		("Resources", "resources/index"),
+        ("Home", "index"),
+        ("User Guide", "guides/index"),
+        ("Testnet", "testnet/index"),
+        ("Resources", "resources/index"),
      ],
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
@@ -324,18 +332,18 @@ html_use_index = True
 ###############################################################################
 # Breathe configuration
 ###############################################################################
-try :
+try:
     import breathe
 
-    extensions.append( "breathe" )
+    extensions.append("breathe")
     breathe_projects = {
         "graphene": "../doxygen/xml/",
     }
     breathe_default_project = "graphene"
 except :
-    print("="*80)
+    print("=" * 80)
     print("Please install 'breathe' as described in README.md to also have API documentation available!")
-    print("="*80)
+    print("=" * 80)
 
 ###############################################################################
 # Graphiz

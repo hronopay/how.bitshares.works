@@ -33,7 +33,7 @@ exceeded in order for a transaction to be valid.
 
 
 Active Permissions
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 .. image:: account-permissions-active.png
         :alt: Active Permissions

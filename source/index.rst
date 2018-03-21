@@ -1,123 +1,53 @@
+**********************************
+BitShares Blockchain Documentation
+**********************************
 
- 
-| 
+Welcome to the documentation portal for the BitShares Blockchain. The
+content on this page is managed by the BitShares community and is
+constantly improved.
 
-Welcome to the worlds fastest decentralized exchange (The DEX).
-BitShares 2.0 is a Financial Smart Contracts platform that enables trading of digital assets and has market-pegged assets that track the value of their underlying asset. 
+The purpose of this site is to provide in-depth documentation about the
+BitShares Blockchain and make it easier for users and developers to
+leverage the full power of the BitShares Blockchain.
 
-BitShares does for business what bitcoin did for money by utilizing distributed consensus technology to create companies that are inherently global, transparent, trustworthy, efficient and most importantly profitable.
-
-----------
-
-**BitShares Blockchain Foundation - News**
-
-.. image:: logo-bts-foundation2.png
-        :alt: BitShares Foundation
-        :width: 400px
+.. image:: bitshares-logo.png
+        :alt: BitShares Blockchain
+        :width: 200px
         :align: center
 
-|
-* `Reminder: Protocol Upgrade on 2017-12-08 15:40:00 UTC - Update Mandatory  <https://steemit.com/bitshares/@bitshares.fdn/reminder-protocol-upgrade-on-2017-12-08-154000-utc---update-mandatory>`_
+Quick Start
+===========
 
+* `BitShares Whitepaper <http://bitshares.foundation/>`_
+* `Get an Account <http://bitshares.exchange>`_
+* :ref:`Get the Source code <code-repositories>`
+* :ref:`Try out the Testnet <testnets>`
 
-
-
---------------
-
-**Quick Links**
-
-* :ref:`assets-tokens`  (UIA, MPA, EBA etc)
-* :ref:`bitshares-exchanges`
-* :ref:`dex`
-* :ref:`delegated-proof-of-stake`
-* :ref:`Resources - External links <resource-external>`
-* :ref:`Whitepapers <whitepapers-pdfs>`
-
-----------
-
-**Quick Links - Technical**
-
-* :ref:`Getting Started - BitShares Releases <installation-download>`
-* :ref:`BitShares GitHub Repositories: code/issues <bitshares-repositories>`
-* :ref:`blockchain-api`
-* :ref:`bockchain-interaction`
-* :ref:`Developers Guide (Tutorials) <dev-guides>`
-* :ref:`distributed-access-to-dex`
-* :ref:`graphene-namespaces`
-* :ref:`Resources - Other GitHub Repositries <other-github-links>`
-
-* :ref:`testnets` - Public / Private
-* :ref:`wallet-api-calls`
-
-
-
-----------
-
-
-
-References
+User Guide
 =====================================
 
 .. toctree::
-   :maxdepth: 4
-
-   references/index
-   
-      
-   
-Technical Documentation
-=====================================
-
-.. toctree::
-   :maxdepth: 4   
+   :maxdepth: 2
  
-   development/index 
-  
+   guides/index
    
-API Guide
-=====================================
-
-.. toctree::
-   :maxdepth: 4   
-   
-   api/index
-
-  
-  
-Developer Tutorial
-=====================================
-
-.. toctree::
-   :maxdepth: 4   
- 
-   development/tutorials/index 
-   
-
-   
-Graphene - Namespaces
-=====================================
-
-.. toctree::
-   :maxdepth: 3  
-   
-   development/namespaces/index
-   
-   
-Use Cases
-=====================================
-
-.. toctree::
-   :maxdepth: 4
-
-   use_cases/index   
 
 Testnet
 =====================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
 
-   development/testnet/index   
+   testnet/index
+
+
+Glossary
+========
+
+.. toctree::
+   :maxdepth: 2
+ 
+   glossary
 
 
 

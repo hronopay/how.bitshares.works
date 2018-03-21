@@ -18,7 +18,6 @@ presented in separated tutorials:
 
 * :ref:`Open Public Testnet Details <public-testnets-details>`
 * :ref:`Public Testnet How to <public-testnet>`
-
 * :ref:`Private Testnet How to <private-testnet>`
 
 ---------------

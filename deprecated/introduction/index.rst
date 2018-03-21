@@ -3,13 +3,6 @@ The BitShares Blockchain
 #########################
 
 
-The History of BitShares 
-****************************
-
-.. include:: history.rst
-
-|
-
 The Technical Components of BitShares
 *************************************
 
@@ -24,6 +17,11 @@ The Governance of BitShares
 The core native token of the BitShares Blockchain, BTS, serves as a utility token and offers governance properties to its holders. Governance describes the progress of governing the Blockchains many variable aspects in a way it it can adapt to future changes more easily. 
 
 .. include:: governance.rst
+
+Allocation
+**********
+
+.. include:: allocation.rst
 
 |
 
