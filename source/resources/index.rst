@@ -21,7 +21,7 @@ BitShares Blockchain Foundation
 
 .. _bitshares-communities:
 
-BitShares Communities
+BitShares on Social Media
 =========================
 
 .. include:: community.rst
