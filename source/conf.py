@@ -32,7 +32,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = ['sphinxjp.themes.basicstrap', 'sphinx.ext.autodoc', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'breathe', 'sphinx.ext.imgmath']
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.todo', 'sphinx.ext.coverage', 'breathe', 'sphinx.ext.imgmath']
 todo_include_todos = False
 
 # Add any paths that contain templates here, relative to this directory.
@@ -148,8 +148,8 @@ html_theme_options = {
 		 ("Technology", "technology/index"),
          ("User Guide", "bitshares/accounts/index"),
 		("Resources", "resources/index"),
-     ],	
-	
+     ],
+
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
     'globaltoc_depth': 2,
@@ -167,7 +167,7 @@ html_theme_options = {
     # For black navbar, do "navbar navbar-inverse"
     ####--'navbar_class': "navbar",
     'navbar_class': "navbar navbar-inverse",
-		
+
     # Fix navigation bar to top of page?
     # Values: "true" (default) or "false"
     'navbar_fixed_top': "true",
@@ -345,7 +345,7 @@ graphviz_output_format = 'svg'
 autodoc_member_order = 'bysource'
 
 ###############################################################################
-#  my styles  
+#  my styles
 ###############################################################################
 def setup(app):
     app.add_stylesheet("bts-styles.css") # also can be a full URL
@@ -390,7 +390,7 @@ epub_language = 'en'
 # Allow duplicate toc entries.
 epub_tocdup = True
 
-pdf_documents = [ 
+pdf_documents = [
     ('index', 'name', u'bts', u'name'),
 ]
 pdf_stylesheets = ['sphinx','kerning','a4','en']
