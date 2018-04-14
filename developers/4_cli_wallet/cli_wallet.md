@@ -20,7 +20,7 @@ The Cli_wallet creates a local _wallet.json_ file that contains the encrypted pr
 
 ## Cli-Tools for Windows (option)
 
-You might have an option to use `cli tools` for Windows to start a cli-wallet. You do not need to install BitShates Core project. If you are interested, check a BitShares release page ( https://github.com/bitshares/bitshares-core/releases) and download the BitShares-Core-*-x64-cli-tools.zip. Here is an instruction [link.]() --> 1.4: Windows CLI Tools
+You might have an option to use `cli tools` for Windows to start a cli-wallet. You do not need to install BitShates Core project. If you are interested, check a BitShares release page ( https://github.com/bitshares/bitshares-core/releases) and download the BitShares-Core-*-x64-cli-tools.zip. Here is an instruction [link.](/developers/1_installation/1-4_windows_cli_tools.md#contents)
 
 ****
 
