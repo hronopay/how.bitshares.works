@@ -14,16 +14,7 @@
 
 ### About:
 
-The Cli-Wallet is used to interact with the blockchain. All it takes for the cli-wallet to run is a trusted public **API server** to interface with the blockchain. These public API servers are run by businesses and individuals (i.g., Full Node).
-
-The Cli_wallet creates a local _wallet.json_ file that **contains the encrypted private keys** required to access the funds in your account. It requires a running witness node (not necessarily locally) and connects to it.
-
-
-Everything that adds new data to the blockchain requires a signature from a private key. These signed transactions can be produced by the cli-wallet.
-
-The cli-wallet can open a RPC port so that you can interface your application with it. 
-
-
+The Cli_wallet creates a local _wallet.json_ file that contains the encrypted private keys. The key is required to access the funds and add new data to the blockchain. You will need to `unlock` the wallet before you start interacting with the blockchain. It requires a running witness node (API server) to interface with the blockchain.
 
 ***
 
