@@ -43,7 +43,6 @@ Your running witness/full node might be _BitShares Public Full Nodes_, or run by
 ----
 
 ## Case 1: Connecting a Cli-Wallet
-(*-ts-* which word is better??  Launch/open/start/connect/execute?? )
 
 We use the public API node of OpenLedger `wss://bitshares.openledger.info/ws` and connect via secured websocket connection:
 
@@ -51,17 +50,17 @@ We use the public API node of OpenLedger `wss://bitshares.openledger.info/ws` an
 
     ./programs/cli_wallet/cli_wallet -s wss://bitshares.openledger.info/ws
 
-This will **open the cli-wallet** and unless you already have a local wallet, and will ask you to provide a password for your local wallet. Once a wallet has been created (default wallet file is *wallet.json*).
+This will **open the cli-wallet** and unless you already have a local wallet, and will ask you to provide a password for your local wallet. Once a wallet has been created (default wallet file is *wallet.json*), you will receive,
 
-
------
-
-(*-ts-*  locked?? when I tested cli tool and run  `>cli_wallet -s wss://bitshares.openledger.info/ws`, I got a return `new >>>` to set a password...)
-
-----
+    new >>>
 
 **set_password**
 
+(e.g.) we used `supersecretpassphrase` as a password.
+
+    new >>> set_password supersecretpassphrase
+    set_password supersecretpassphrase
+    null
     locked >>>
 
 The wallet can be unlocked by providing the password.
@@ -73,15 +72,6 @@ The wallet can be unlocked by providing the password.
     unlocked >>>
 
 > Note: After this point, you can issue any command available to the cli-wallet (Wallet APIs) or construct your own transaction manually.
-
-**gethelp**
-
-You can get more detailed information either by pressing Tab, twice, or by issuing help. Detailed explanations for most calls are available via
-
-    unlocked >> gethelp <command>
-
-> Note: Many calls have a obligatory `broadcast`-flag as last argument. If this flag is `False`, the wallet will construct and sign, but **not** broadcast the transaction. This can be very useful for a cold storage setup or to verify transactions.
-
 
 ### Opening Remote Procedure Call (RPC) Port
 
