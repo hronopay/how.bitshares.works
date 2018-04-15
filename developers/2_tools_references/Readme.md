@@ -5,6 +5,6 @@
    - Python Library
    - Github other repositories
    - BirShares GitHub Code | Issues
-- [Developers Articles](/developers/2_tools_rerefemces/tech_articles.md#articles)
+- [Developers Articles](/developers/2_tools_references/tech_articles.md#articles)
 - Monitoring Account Deposits: Python
 - Monitoring Balance History: NodeJS
