@@ -14,7 +14,7 @@
 9. Instillation of Python Library
 10. Create MPAs/UIAs
 
-### 03. [Private Testnet](/developers/8_testnets/private_testnet.md#how-to-setup-private-testnet)
+### 03. [Private Testnet](/developers/8_testnets/private_test.md#private-testnet)
 1. Prerequisites
 2. Folder Structure
 3. The Genesis Files
