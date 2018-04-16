@@ -1,3 +1,6 @@
 "# how.bitshares.works" 
 
-BitShares Blockchain - Documentaion Portal (draft)
+### [BitShares Developers Documentation](/developers#bitshares-documentation-for-developpers)
+~~ working in progress ~~ 
+
+
