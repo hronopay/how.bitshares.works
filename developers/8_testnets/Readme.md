@@ -2,7 +2,7 @@
 
 ### 01. [Public Testnet Details](/developers/8_testnets/public_testnet_details.md#the-open-public-testnet-information)
 
-### 02. [Public Testnet Witness(Full) Nodes (block producing witness nodes) ](/developers/8_testnets/public_testnet.md#how-to-deploy-your-own-public-network)
+### 02. [Public Testnet Witness(Full) Nodes (block producing witness nodes) ](/developers/8_testnets/public_testnet.md#public-testnet-witnessfull-nodes-block-producing-witness-nodes)
 1. Installation/Configuration of Witness
 2. Genesis Configuration
 3. Initializing Blockchain
