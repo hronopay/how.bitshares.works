@@ -15,8 +15,8 @@ In this section, we will show how to use a brain key and a public key while crea
 
 ## 1. Prerequisites
 
-   - CLI Wallet _commond window_ ready at this point to type in a command.  
-   - .... server and connection Witness_node (Full node) 
+   - CLI Wallet _commond window_ ready at this point to type in a command and 
+   - connection to a running Witness_node (Full node) 
 
 ## 2. Create a brain Key and derive a private/public key pair
 
