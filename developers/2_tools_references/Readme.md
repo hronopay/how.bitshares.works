@@ -1,7 +1,7 @@
 ## 2. References & Tools
 
 ### References
-- [References](/developers/2_references_tools/references.md#references)
+- [References](/developers/2_references_tools/references.md#references)\
    - Releases
    - Python Library
    - Github other repositories
