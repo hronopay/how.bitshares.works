@@ -25,7 +25,7 @@ _**above processes will go parallel_
 
 ### 2.[References & Tools](/developers/2_references_tools#2-references--tools)
      
-### 3. [Accounts](/developers/3_Accounts/Readme.md#3-accounts)
+### 3. [Accounts](/developers/3_accounts/Readme.md#3-accounts)
 
 ### 4. [CLI Wallet](/developers/4_cli_wallet/Readme.md#4-cli-wallet)
 
