@@ -21,7 +21,7 @@ _**above processes will go parallel_
 
 ### Contents:
 
-### 1. [Environment & Installation ](/developers/1_installation#1-environment--installation)
+### 1. [Environment & Installation ](/developers/1_installation/Readme.md#1-environment--installation)
 
 ### 2.[References & Tools](/developers/2_references_tools#references--tools)
      
