@@ -23,7 +23,7 @@ leverage the full power of the BitShares Blockchain.
 * [BitShares Blockchain Foundation Announcements ](http://www.bitshares.foundation/)
 
 
-### User Guide
+### [User Guide](/bbf/user_guide#user-guide)
 - [Create your BitShares Account and Wallet](/bbf/user_guide/create_account.md#create-your-bitshares-account-and-wallet)
 - BitShares Accounts
 - Backup your Wallet
