@@ -1,6 +1,6 @@
 ## User Guide
 
-### Create your BitShares Account and Wallet
+### [Create your BitShares Account and Wallet](/bbf/user_guide/create_account.md#create-your-bitshares-account-and-wallet)
 (Quick Start)
 - Light wallet or Web wallet?
 - Create your Account
