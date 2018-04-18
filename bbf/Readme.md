@@ -24,7 +24,13 @@ leverage the full power of the BitShares Blockchain.
 
 
 ### User Guide
-
+- Create your BitShares Account and Wallet
+- BitShares Accounts
+- Backup your Wallet
+- Transactions
+- Deposit & Withdraw
+- Exchange / Explore
+- Wallet Functions & Settings (details)
 
 ### Testnet
 
