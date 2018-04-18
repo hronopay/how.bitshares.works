@@ -8,9 +8,9 @@
 - Login
 - Basic Functions/Settings (often use)
 
-### BitShares Client
-- Choose your Client
-- Account
+### BitShares Accounts
+- Choose Client
+- Accounts
    - login user and password
    - permissions 
    - keys  
