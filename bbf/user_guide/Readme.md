@@ -10,13 +10,13 @@
 
 ### BitShares Accounts
 - Choose Client
-- Accounts
-   - login user and password
-   - permissions 
-   - keys  
 - Cloud Wallet Login Mode & Local Wallet Login Mode
+- Accounts
+- Keys
+- Permissions 
+- Membership
+- Fees
 - Vote / Proxy
-  
 
 ### Backup your Wallet
    - Local Wallet
