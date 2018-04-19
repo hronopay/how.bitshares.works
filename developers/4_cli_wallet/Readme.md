@@ -21,3 +21,11 @@
       - Trusted Full Node:
       - Delayed Full Node:
       - Wallet
+
+***
+
+- Protocol information for Merchant
+   - [Wallet Login Protocol](/developers/4_cli_wallet/08_merchant_login.md#merchant)
+   - [Wallet Privacy Protocol](/developers/4_cli_wallet/08_merchant_privacy.md#merchant)
+
+***
