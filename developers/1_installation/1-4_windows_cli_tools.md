@@ -1,3 +1,5 @@
+# CLI-Wallet on Windows (x64)
+
 ### Contents
 
 - [How to install BitShares Core - CLI-Wallet on Windows (x64)](#how-to-install-bitshares-core---cli-wallet-on-windows-10)
