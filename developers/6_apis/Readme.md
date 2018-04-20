@@ -1,6 +1,10 @@
 ## 6. APIs
 
-**~~ coming soon ~~**
+***
+
+### [API Documentation](https://bitshares.org/doxygen/index.html)
+
+***
 
 ### 01. Overview
 - [APIs two categories](/developers/6_apis/apis-about.md#apis-categories)
@@ -8,8 +12,8 @@
    - Wallet API
 - API Access Restrictions
 - Blockchain Specifications
-   - Object and IDs
-   
+- [Object and IDs](/developers/6_apis/object_ids.md#object-and-ids)
+  
 ### 02. Calls   
 - Remote Procedure Calls
 - [Websocket Calls & Notifications](https://github.com/cedar-book/btsdoc-portal/blob/master/developers/6_apis/websocket_calls_notifications.md#contents)
