@@ -25,7 +25,7 @@
 ***
 
 - Protocol information for Merchant
-   - [Wallet Login Protocol](/developers/4_cli_wallet/08_merchant_login.md#merchant)
-   - [Wallet Privacy Protocol](/developers/4_cli_wallet/08_merchant_privacy.md#merchant)
+   - [Wallet Login Protocol](/developers/4_cli_wallet/merchant_login.md#merchant)
+   - [Wallet Privacy Protocol](/developers/4_cli_wallet/merchant_privacy.md#merchant)
 
 ***
