@@ -8,10 +8,6 @@
 - Login
 - [Quick Review Wallet Options](/bbf/user_guide/wallet_options1.md#bitshares-wallet-options)
 
-
-https://github.com/bitshares/how.bitshares.works/blob/master/bbf/user_guide/permissions.md#permissions
-
-
 ### BitShares Accounts
 - [Choose your Client](/bbf/user_guide/bitshares_client.md#choose-your-client)
    - Light Client
