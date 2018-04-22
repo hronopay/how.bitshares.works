@@ -8,6 +8,6 @@
 
 ### [Glossary - BitShares Blockchain](/bbf/resources/glossary.md#glossary---bitshares-blockchain)
 
-### [Glossary - Blockchain in General](/bbf/resources/glossary-general.md)
+### [Glossary - Blockchain in General](/bbf/resources/glossary_general.md#glossary-in-general)
 
 ### [Resources External](/bbf/resources/resources-external.md#resources-external)
