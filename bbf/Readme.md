@@ -23,10 +23,17 @@ leverage the full power of the BitShares Blockchain.
 
 ### [User Guide](/bbf/user_guide#user-guide)
 - [Create your BitShares Account and Wallet](/bbf/user_guide/create_account.md#create-your-bitshares-account-and-wallet)
-  - Get an Account
-  - Get the Source code 
-- BitShares Accounts
-- Backup your Wallet
+- [BitShares Accounts](/bbf/user_guide/bitshares_client.md#bitshares-accounts)
+  - [BitShares Client](/bbf/user_guide/bitshares_client.md#bitShares-client)
+  - [Wallet & Login Mode](/bbf/user_guide/bitshares_client.md#wallet--login-mode)
+  - Accounts
+  - [Permissions ](/bbf/user_guide/permissions.md#permissions)
+  - Membership
+  - Fees
+  - Vote / Proxy 
+- [Backups and Restore your Wallet](/bbf/user_guide/backup_local_wallet.md#backups-and-restore-your-wallet)
+  - [Create Local Wallet Backup](/bbf/user_guide/backup_local_wallet.md#create-local-wallet-backup)
+  - [Restore / Import](/bbf/user_guide/backup_local_wallet.md#restore--import)
 - Transactions
 - Deposit & Withdraw
 - Exchange / Explore
