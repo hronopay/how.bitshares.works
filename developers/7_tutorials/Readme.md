@@ -37,13 +37,13 @@
 - [Manually Construct Any Transaction](/developers/7_tutorials/trn_construct_transaction.md#construct-any-transaction---manually)
 - [Proposing a Transaction](/developers/7_tutorials/trn_propose_transaction.md#proposing-a-transaction)
 - Q&A
-
+/developers/4_wallet/wallet_network.md#network-and-wallet-configuration
 
 ### 08. Wallet / CLI Wallet
 - How to prepare a CLI wallet for trading
-- [Network and Wallet Configuration](/developers/4_cli_wallet/wallet_network.md#network-and-wallet-configuration)
-   - [General](/developers/4_cli_wallet/wallet_network.md#network-setups)
-   - [Secure](/developers/4_cli_wallet/wallet_network.md#secure-network-and-wallet-configuration)
+- [Network and Wallet Configuration](/developers/4_wallet/wallet_network.md#network-and-wallet-configuration)
+   - [General](/developers/4_wallet/wallet_network.md#network-setups)
+   - [Secure](/developers/4_wallet/wallet_network.md#secure-network-and-wallet-configuration)
 - [Q&A](/developers/7_tutorials/QA.md#wallet--cli-wallet)
 
 ### 09. Witness
