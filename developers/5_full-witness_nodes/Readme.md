@@ -1,7 +1,7 @@
 ## 5. Full Node / Witness Node
 
 
-### 01. [Full Nodes (Witness Nodes)](/developers/5_full-witness_nodes/full_nodes.md#full-nodes-witness-nodes)
+### [Full Nodes (Witness Nodes)](/developers/5_full-witness_nodes/full_nodes.md#full-nodes-witness-nodes)
 - Type of Witness nodes
    - Non-Block producing
    - Block producing
@@ -9,7 +9,7 @@
 - Configuration
 - Enabling Remote Procedure Calls (RPC)
 
-### 02. [Become an Active Witness](/developers/5_full-witness_nodes/active_witness.md#become-an-active-witness)
+### [Become an Active Witness](/developers/5_full-witness_nodes/active_witness.md#become-an-active-witness)
 - [A Block-Producing Witness](/developers/5_full-witness_nodes/active_witness.md#a-block-producing-witness)
    - Requirements
    - Hardware Advice
