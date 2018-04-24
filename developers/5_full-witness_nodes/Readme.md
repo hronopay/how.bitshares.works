@@ -23,3 +23,13 @@
    - Verifying Block Production
    - Backup Server
    - Price Feeds
+
+### [Memory Reduction for Nodes](/developers/5_full-witness_nodes/nodes_memory_reduction.md#memory-reduction-for-nodes)
+- [Four New Options to Reduce RAM](/developers/5_full-witness_nodes/nodes_memory_reduction.md#four-new-options-to-reduce-ram)
+   - [--plugins arg   ](/developers/5_full-witness_nodes/nodes_memory_reduction.md#--plugins)
+   - [--track-account arg ](/developers/5_full-witness_nodes/nodes_memory_reduction.md#--track-account)
+   - [--max-ops-per-account arg](/developers/5_full-witness_nodes/nodes_memory_reduction.md#--max-ops-per-account)
+   - [--partial-operations arg](/developers/5_full-witness_nodes/nodes_memory_reduction.md#--partial-operations)
+- [Combinations](/developers/5_full-witness_nodes/nodes_memory_reduction.md#combinations)
+
+
