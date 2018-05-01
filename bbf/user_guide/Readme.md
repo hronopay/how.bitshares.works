@@ -1,7 +1,6 @@
 ## User Guide
 
 ### [Create your BitShares Account and Wallet](/bbf/user_guide/create_account.md#create-your-bitshares-account-and-wallet)
-(Quick Start)
 - [Light wallet or Web wallet?](/bbf/user_guide/create_account.md#light-wallet-or-web-wallet)
 - [Create an Account](/bbf/user_guide/create_account.md#create-an-account)
 - [Dashboard](/bbf/user_guide/create_account.md#dashboard)
@@ -21,7 +20,7 @@
       - Permissions Tabs
    - [Public Key and Private Key](/bbf/user_guide/permissions.md#public-key-and-private-key)
       - Where are they? 
-   - [Cloud Wallet option](/bbf/user_guide/permissions.md#cloud-wallet-tab-option) 
+   - [Cloud Wallet option](/bbf/user_guide/permissions.md#cloud-wallet-tab-option)   
 - Membership
 - Fees
 - Vote / Proxy
@@ -36,17 +35,20 @@
    - [How to Restore from a backup (.bin) file](/bbf/user_guide/backup_local_wallet.md#how-to-restore-from-a-backup-bin-file)
    - [How to Check *Active Local Wallet* name](/bbf/user_guide/backup_local_wallet.md#how-to-check-active-local-wallet-name)
    - [How to Recover Account with Brain key](/bbf/user_guide/backup_local_wallet.md#how-to-recover-account-with-brain-key)
-   
+ 
+### Deposit & Withdraw
+- [Bridge and Gateway](/bbf/user_guide/bridge_gateway.md#bridge-and-gateway)
+- [Fund your Account](/bbf/user_guide/fund_account.md#fund-your-account)
+   - [Send (Transfer)](/bbf/user_guide/fund_account.md#send-transfer)  
+   - [Deposit](/bbf/user_guide/fund_account.md#deposit)   
+- Withdraw   
+- Direct Exchange Services
+
 ### Transactions
-- Fund
-- Send
 - Proposed Transactions
 - Confidential Transactions
 
-### Deposit & Withdraw
-- Transfer  Services
-- Direct Exchange Services
-- Bridge and Gateway Services
+
 
 ### Exchange / Explore
 - Exchange
