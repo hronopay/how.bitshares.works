@@ -4,13 +4,13 @@
    - Permissions Tabs
 - [Public Key and Private Key](/bbf/user_guide/permissions.md#public-key-and-private-key)
    - Where are they? 
-- [Cloud Wallet option](/bbf/user_guide/permissions.md#cloud-wallet-tab-option)
+- [Cloud Wallet tab option](/bbf/user_guide/permissions.md#cloud-wallet-tab-option)
 
 ***
 In BitShares, each account is separated into
 
 - **Active Permission**: Allows to access funds and some account settings, but cannot change the owner permission and is thus considered the “online” permissions.
-- **Owner Permission**: This permission has administrative powers over the whole account.
+- **Owner Permission**: This permission has administrative powers over the whole account. 
 
 Both can be defined in the Permissions tab of your account using so called *authorities* together with a so called *reshold* that has to be exceeded in order for a transaction to be valid.
 
@@ -58,7 +58,7 @@ We can find each Public key in the Permissions page. We can also find each Priva
 </p>
 
 #### Memo – Private keys
-- Click a key image. (It seems a private key number does nor have a link.)
+- Click a key image. (It seems a private key number does not have a link.)
 - A Private key viewer form opens. You will find a Public Key and a [SHOW] button like below.
 - Click the [SHOW] button. You will find your Private key under the Public key.  
 
