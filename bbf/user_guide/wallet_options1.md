@@ -3,7 +3,7 @@
 ## Quick Review Wallet Options
 
 <p align="center">
-  <img src="https://github.com/cedar-book/btsdoc-portal/blob/master/bbf/img/functions1.png" width="640" title="Wallet items1">
+  <img src="https://github.com/cedar-book/btsdoc-portal/blob/master/bbf/img/functions1.png" width="650" title="Wallet items1">
 </p>
 
 |  | item name |   |
@@ -41,16 +41,40 @@
 |  | Withdraw |  (Original Withdraw page)   |
 |  | Withdraw(beta) | Search an asset to withdraw and...   |
 |  | Settings | You can manage your wallet appearance  and other settings. <br/> **Settings - CLOUD Wallet Login Mode:** <br/> - General <br/> - Accounts <br/> - Restore/Import <br/> - Nodes <br/> - Faucet <br/> - Reset settings <br/> **Settings - LOCAL Wallet Login Mode:** <br/> - General <br/> - Local Wallet <br/> - Accounts <br/> - Password <br/> - Backup <br/> - Restore/Import <br/> - Access <br/> - Faucet     |
-|  | News | BitShares Blockchain News  |
+|  | News | BitShares Blockchain Foundation and other News  |
 |  | Help | Open a Help page  |
-|  | Voting | You can vote for Witnesses, Committee or Workers. Or you can set a Proxy to case a vote.   <br/> **Voting is important** in Bitshares in the same way it is important to the community in which you live. The weight of your vote is directly correlated to the number of BTS you own. If you aren't heavily involved in the community, you are encouraged to choose a proxy who represents your interests.  |
+|  | Voting | You can vote for Witnesses, Committee or Workers. Or you can set a Proxy to case a vote. <br/> **Voting is important** in Bitshares in the same way it is important to the community in which you live. The weight of your vote is directly correlated to the number of BTS you own. If you aren't heavily involved in the community, you are encouraged to choose a proxy who represents your interests.  |
 |  | Asset |  Issued Assets |
 |  | Signed Message |  You can create a Signed message |
 |  | Membership stats | Basic Member is a default membership. You can upgrade to Lifefime Membership here.   |
-|  | Vesting balances |   |
+|  | Vesting balances | Vesting balances contain any fees earned through the referral program or from worker pay, for example. They have a certain vesting period and are continually unlocked during that vesting period until all of the balances are available  |
 |  | Whitelist | You can set Whitelist and/or Blicklist. Also, you can view 'Whitelisted by' and 'Blacklisted by'.  |
 |  | Permissions | You can review the account's Active Permission, Owner Permission, and Memo Key informarion. <br/> - Active Permission: control over its funds and <br/> - Owner Permission: control over the account. <br/> **Advanced User Only::** If you want to manage your *Cloud Wallet* permissions, you can do so here.  |
 |  | Accounts | You can review Accounts, Contacts, and Recent activity information.  |
 
 ***
 
+## Settings
+(*working in progress*)
+
+### Cloud Wallet Login Mode
+- General
+- Accounts
+- Restore/Import
+- Nodes
+- Faucet
+- Reset settings
+
+
+### Local Wallet Login Mode
+- General
+- Local Wallet
+- Accounts
+- Password
+- Backup
+- Restore/Import
+- Access
+- Faucet
+
+
+***
