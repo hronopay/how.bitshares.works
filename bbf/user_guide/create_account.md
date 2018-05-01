@@ -7,6 +7,22 @@
 
 ***
 
+In this section, we want to describe Terminologies  and guide you to create and register your BitShares Account. 
+
+### Wallet
+Users can (if they have a lifetime membership) register multiple accounts in parallel, all of them are stored in a single wallet. Hence, a wallet can carry many accounts. Furthermore, users can create multiple wallets to organize their accounts properly.
+
+### Accounts
+
+In BitShares, you can create own **unique account name**, so, you can remember easily. And you will use the account name to communicate (e.g. Send fund) with other BitShares account users (shareholders) like an email address. 
+ Each user has at least one account that can be used to interact with the blockchain. In the end, this can be seen as a single banking account with an individual balance, transaction history, etc. Since these accounts are registered on the blockchain and are open to the public, we recommend to pick a pseudonym to achieve some privacy. The advantage of using account names is that people can identify you by using a readable and memorable word instead of cryptographic addresses.
+
+### Keys
+
+Keys refer to the cryptography used to secure access to your account and funds. It is of importance to prevent others from gaining access to these. This is why you have to provide a passphrase that is used to store the keys in an encrypted way.
+
+***
+
 ## Light wallet or Web wallet?
 
 Before we create a wallet, let's check what type of wallet you wand to have as your BitShares wallet. Quick check the below chart. 
@@ -25,11 +41,7 @@ Did you find out which type of wallet you want to have?
 
 ## Create an Account
 
-We assume you selected a wallet type and installed (Light wallet) and opened a "Welcome BitShares". 
-
-**Note:**
-
-In BitShares, you can create own **unique account name**, so, you can remember easily. And you will use the account name to communicate (e.g. Send fund) with other BitShares account users (shareholders) like an email address. 
+We assume you have selected a wallet type and installed (Light wallet) and opened a "Welcome BitShares". 
 
 This is very important. Please create a strong password and **write down** or **save** it to a safe place!! Do not lose it. **ONLY you can open your wallet again. No one can help.**
 
@@ -40,15 +52,15 @@ This is very important. Please create a strong password and **write down** or **
 
 Let's start!
 
-- 1.Click [CREATE ACCOUNT]
+- 1.Click [**CREATE ACCOUNT**]
 
 It opens a next form to input your BitShares account name and a password. 
 
-- 2.Type in [ACCOUNT NAME]
+- 2.Type in [**ACCOUNT NAME**]
 - 3.You can use a _GENERATED PASSWORD_ or create own strong password.
 - 4.Type or paste your password to confirm.
 - 5.Read three warnings and check the check boxes.
-- 6.Click [CREATE ACCOUNT]
+- 6.Click [**CREATE ACCOUNT**]
 
 
 <p align="center">
@@ -57,8 +69,8 @@ It opens a next form to input your BitShares account name and a password.
 
 Before you submit, check your password one last time. It's very important!!
  
-- 7.Click [SHOW ME MY PASSWORD] and double check if you have a correct password.
-- 8.Click [OK,TAKE ME TO THE DASHBOARD]
+- 7.Click **[SHOW ME MY PASSWORD**] and double check if you have a correct password.
+- 8.Click [**OK,TAKE ME TO THE DASHBOARD**]
 
 <p align="center">
   <img src="https://github.com/cedar-book/btsdoc-portal/blob/master/bbf/img/create-account4.png" width="380" title="welcome_bitshares">
@@ -112,7 +124,7 @@ You will find a **Locked Key** icon in the top right corner (if you have not log
 
 ### Cloud Wallet Login form
 
-If you followed the above steps to create your BitShares account, you would have a Cloud Wallet Login Mode as a default wallet. We will explain more details about "Cloud wallet login mode" and "Local wallet login mode" later. In this section, try your password to login to your BitShares wallet. 
+If you followed the above steps to create your BitShares account, you would have a Cloud Wallet Login Mode as a default setting. We will explain more details about "Cloud wallet login mode" and "Local wallet login mode" later. In this section, try your password to login to your BitShares wallet. 
 
 <p align="center">
   <img src="https://github.com/cedar-book/btsdoc-portal/blob/master/bbf/img/cloud-login2.png" width="500" title="cloud-login">
