@@ -1,6 +1,6 @@
-## Boost Version 
+## Boost Versions 
 
-### Supported Version
+### Supported Versions
 
 * Boost: between 1.57 and 1.63
 
