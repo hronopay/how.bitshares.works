@@ -23,7 +23,7 @@ Versions earlier than 1.57 or newer than 1.63 are NOT supported. If your system 
    - Updating to boost 1.64 might fix this issue, however BitShares is not compatible with Boost 1.64 at this point (typing:4/29/2018)
 
 
-### bitshares-fc
+#### bitshares-fc
 
 
 ***
