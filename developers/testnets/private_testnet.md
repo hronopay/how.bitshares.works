@@ -80,9 +80,13 @@ Embedded genesis is a feature designed to make life easier for consumers of pre-
 
 We create a new data directory for our witness.
 
-    witness_node --data-dir data/my-blockprod --genesis-json genesis/my-genesis.json --seed-nodes "[]"   
+    witness_node --data-dir data/my-blockprod --genesis-json genesis/my-genesis.json --seed-nodes "[]"   # or
+    
+    witness_node --data-dir=data/my-blockprod --genesis-json=genesis/my-genesis.json --seed-nodes "[]"
 
 The `data/my-blockprod` directory does not exist, it will be created by the witness node.
+
+> Known issue: Missing `=` sign between input parameter and value. --> This is due to a bug of a boost 1.60. If you compile with boost 1.58, the `=` sign can be omitted.
 
 > Note: `seed-nodes = []` creates a list of empty seed nodes to avoid connecting to default hardcoded seeds.  
     
@@ -102,10 +106,6 @@ As a result, you should get two items:
 Open the `[Testnet-Home]/data/my-blockprod/config.ini` file and set the following settings, uncommenting them if necessary.
 
     rpc-endpoint = 127.0.0.1:8090
-    
-    p2p-endpoint = 127.0.0.1:11010
-    rpc-endpoint = 127.0.0.1:11011
-    
     genesis-json = my-genesis.json
     enable-stale-production = true
 
@@ -278,6 +278,8 @@ The `get_private_key` command allows us to obtain the public key corresponding t
 (ref)
 - https://github.com/bitshares/bitshares-core/wiki/private-testnet
 - http://docs.bitshares.org/testnet/private-testnet.html
+- https://github.com/bitshares/docs.bitshares.org/pull/52
+- https://github.com/bitshares/bitshares-core/issues/700
 
 
 
